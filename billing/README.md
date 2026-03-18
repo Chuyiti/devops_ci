@@ -39,5 +39,5 @@ for local use:
 ```
 3. Run the command java -jar target/*.jar.
 4. Open your browser and go to url: http://localhost:7080/swagger-ui/index.html
-choose the correct port that you see on log at startup process
+choose the correct port that you see on log at startup process chuy
 
